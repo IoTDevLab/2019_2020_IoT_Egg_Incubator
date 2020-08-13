@@ -65,7 +65,7 @@ The following steps must be follow in order to program the ESP.
 4. Clone this repo, extra with 7z and upload the code in the ESP 32 Code folder to the ESp 32 Development Board using th Arduino IDE
 
 5. Follow the youtube at <https://www.youtube.com/watch?v=vQLrBNHcAcs> to build the turning tray.
-![Turning Tray](Hard_Pics/incubator.gif)
+![Turning Tray](Hard_Pics/incu.gif)
 
 6. Fix the PC Fan and the bulb at appropriate location in the plastic container
   <img src="Hard_Pics/light.jpg" width="650">
