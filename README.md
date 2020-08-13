@@ -2,7 +2,7 @@
 
  The IoT Automatic Egg Incubator is similar to the type of incubator which can be used as a substitute of poultry chicken to incubate the chicken eggs automatically. It will be helpful for the farmers to incubate their eggs automatically without the need of human intervention, by keeping the physical quantities such as temperature and humidity at required level, so that the fetuses inside them will grow and incubates without the presence of the mother.This project is made up of Hardware and Mobile app.
 
- <img src="Hard_Pics/frontpic.jpg" width="300">  <img src="Hard_Pics/backpic.jpg" width="300"> <img src="Mobile_App_Pics/home.png" width="220">
+ <img src="Hard_Pics/frontpic.jpg" width="300">  <img src="Hard_Pics/backpic.jpg" width="300"> <img src="Mobile_App_Pics/home.png" width="250">
  The Hardware part consist of 
  - ESP32
  - DHT22
@@ -41,7 +41,7 @@ The following steps must be follow in order to program the ESP.
     - DHT22 Library from the instruction at <https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/>
 
 3. Follow the fritzing diagram below to connect all the sensors  
-    <img src="Hard_Pics/fritz.JPG" width="500"> 
+    <img src="Hard_Pics/fritz.JPG" width="800"> 
     - The GND of all the sensors or the module are connected to the GND of the ESP32 Board.
     - The VCC of all the sensors or module are connected to the 5V power pin of the ESP 32 Board.
     - The Data of the DHT22 is connected to pinout 17 of the ESP 32 Board.
@@ -56,15 +56,15 @@ The following steps must be follow in order to program the ESP.
     - The CS pin of the SD Card Module is connected to pin 23 of the ESP 32 board.
     - The CLK pin of the SD Card Module is connected to pin 18 of the ESP 32 board.
     - The  MISO pin of the SD Card Module is connected to pin 19 of the ESP 32 board.
-    <img src="Hard_Pics/shemantical.JPG" width="500">
+    <img src="Hard_Pics/shemantical.JPG" width="800">
 4. Clone this repo, extra with 7z and upload the code in the ESP 32 Code folder to the ESp 32 Development Board using th Arduino IDE
 
 5. Follow the youtube at <https://www.youtube.com/watch?v=vQLrBNHcAcs> to build the turning tray.
-[Turning Tray](Hard_Pics/incubator.gif)
+![Turning Tray](Hard_Pics/incubator.gif)
 6. Fix the PC Fan and the bulb at appropriate location in the plastic container
-  <img src="Hard_Pics/light.jpg" width="500">
+  <img src="Hard_Pics/light.jpg" width="700">
 7. Provide external power source for the PC Fan, Bulb and the rotating motor or stepper motor depending on your pc fan and motor. 
- <img src="Hard_Pics/power.jpg" width="500">
+ <img src="Hard_Pics/power.jpg" width="700">
 
 ## Building the Mobile App.
  The following steps must be follow to built the Mobile App. 
