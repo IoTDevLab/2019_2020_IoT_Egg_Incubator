@@ -111,7 +111,3 @@ The following steps must be follow in order to program the ESP.
 <img src="Mobile_App_Pics/about.png" width="250">  <img src="Mobile_App_Pics/sdcard.png" width="250"> <img src="Mobile_App_Pics/download.png" width="250">
 
 <img src="Mobile_App_Pics/open.png" width="250">  <img src="Mobile_App_Pics/excel.png" width="250"> <img src="Mobile_App_Pics/delete.png" width="250">
-
-<img src="Mobile_App_Pics/rest.png" width="250">  <img src="Mobile_App_Pics/delete.png" width="250"> <img src="Mobile_App_Pics/student.png" width="250">
-
-<img src="Mobile_App_Pics/project.png" width="250">  <img src="Mobile_App_Pics/contact.png" width="250"> <img src="Mobile_App_Pics/devlab.png" width="250">
