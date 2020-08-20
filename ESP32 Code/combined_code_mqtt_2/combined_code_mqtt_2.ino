@@ -26,9 +26,9 @@ float t;  // timperature declaration
 char daysOfTheWeek[7][12] = {"Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"}; //days init
 String dataMessage;   
 
-const int motor = 16; //motor pin declaration
+const int bulb = 16; //motor pin declaration
 const int fan = 27; // fan pin declaration
-const int bulb = 14; // bulb pin declaration
+const int motor = 14; // bulb pin declaration
 LiquidCrystal_I2C lcd(0x27, 16, 2); //LCD construct
 long lastMsg = 0;
 char msg[50];
